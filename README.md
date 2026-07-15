@@ -3,4 +3,4 @@ Gain hands-on experience with the Databricks platform and learn how it simplifie
 
 
 ## Credits
-* [@Databricks](https://github.com/orgs/databricks/) - Easy and Free course to learn
+* [Databricks](https://github.com/orgs/databricks/) - Easy and Free course to learn
